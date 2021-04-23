@@ -15,8 +15,8 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: cloudinary://452522267619219:zekeBYQj_sT0tsHBzlzfk-qNcZo@bowles
-public_path: ''
+upload_dir: https://res.cloudinary.com/bowles/image/upload
+public_path: https://res.cloudinary.com/bowles
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
