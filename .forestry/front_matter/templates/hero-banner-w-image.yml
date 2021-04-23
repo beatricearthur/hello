@@ -43,3 +43,5 @@ fields:
     label: Enabled
   - type: include
     template: link
+    name: newsletter-block
+    label: Join my newsletter
